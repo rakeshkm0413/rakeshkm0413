@@ -158,9 +158,6 @@ Analyzed product and customer data to identify sales patterns and customer behav
 
 ## 🎓 Education
 
-🎓 **B.Sc. Data Science & Applications**  
-Indian Institute of Technology, Madras
-
 🎓 **B.A. Political Science**  
 Indira Gandhi National Open University
 
